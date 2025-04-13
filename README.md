@@ -1,5 +1,5 @@
 # Loan Eligibility Prediction Model
-
+Link to app: "https://loaneligibilityapplication-t3j7kypucxud8nv7xvtj7j.streamlit.app/"
 ## Project Overview
 
 This project focuses on building a **Loan Eligibility Prediction Model** to classify whether an applicant is eligible for a loan based on various attributes. The dataset used for this project contains details of 614 loan applicants, including their income, loan amount, credit history, and other features.
